@@ -6,4 +6,4 @@
 # read 
 # echo "sql and Devops are my world apart"
 # echo "what were you expecting" 
-
+# echo "Be passionate and consistent"
